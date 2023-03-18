@@ -1,2 +1,2 @@
-# odin-admin-dashboard
-Admin Dashboard assignment for TOP
+# Admin Dashboard
+Admin Dashboard assignment for The Odin Project.
